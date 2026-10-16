@@ -652,8 +652,13 @@ if __name__ == "__main__":
     gamma = float(argv[3])
   #  fileGml = graphFile = '.\\bases\\BA__10000-12.gml'
   #  graphFolder = '.\\bases'
-  
+
+    start_time = time.time()
+
     processGmlFile(fileGml, graphFolder, beta, gamma)
+
+    runtime = time.time() - start_time
+    print('runtime', runtime)
     
     
     
