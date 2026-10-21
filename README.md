@@ -82,3 +82,5 @@ If the `.npz` file already exists, the program reuses its data. Use a different 
 Related work on link prediction and the evaluation of diffusion processes in networks:
 
 Vega-Oliveros, D. A.; Zhao, L.; Berton, L. **Evaluating link prediction by diffusion processes in dynamic networks**. Scientific Reports, 9, 10833, 2019. [DOI: 10.1038/s41598-019-47271-9](https://doi.org/10.1038/s41598-019-47271-9).
+
+Vega-Oliveros, D. A.; Zhao, L.; Rocha, A.; Berton, L. **Link Prediction Based on Stochastic Information Diffusion**. *IEEE Transactions on Neural Networks and Learning Systems*, 33(8), 3522–3534, 2022. [DOI: 10.1109/TNNLS.2021.3053263](https://doi.org/10.1109/TNNLS.2021.3053263).
